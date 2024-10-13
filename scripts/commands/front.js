@@ -128,7 +128,7 @@ module.exports.run = async ({ event, api, args }) => {
 
   if (args.length === 0) {
     return api.sendMessage(
-      '╭───────────╮\n│	   𝙵𝙾𝙽𝚃  🩵🪽        \n╰───────────╯\n➤𝗘 𝗫 𝗔 𝗠 𝗣 𝗟 𝗘  -  ❯❯\n\n⦿font a 𝓛𝓘𝓚𝓗𝓞𝓝  𝓐𝓗𝓜𝓔𝓓\n\n⦿font b 𝕃𝕀𝕂ℍ𝕆ℕ 𝟜𝟘𝟜\n\n⦿font c 𝗟𝗜𝗞𝗛𝗢𝗡 𝗔𝗛𝗠𝗘𝗗\n\n⦿font d 𝑳𝑰𝑲𝑯𝑶𝑵 𝑨𝑯𝑴𝑬𝑫\n\n⦿font e 𝔏ℑ𝔎ℌ𝔒𝔑 𝔄ℌ𝔐𝔈𝔇\n\n⦿font f ʟɪᴋʜᴏɴ ᴀʜᴍᴇᴅ\n\n⦿font g 🅻🅸🅺🅷🅾🅽 🅰🅷🅼🅴🅳\n\n⦿font h 🅛🅘🅚🅗🅞🅝 ❹⓿❹\n\n⦿font i 𝐋𝐈𝐊𝐇𝐎𝐍 𝟒𝟎𝟒',
+      '╭───────────╮\n│	   𝙵𝙾𝙽𝚃  🩵🪽        \n╰───────────╯\n➤𝗘 𝗫 𝗔 𝗠 𝗣 𝗟 𝗘  -  ❯❯\n\n⦿font a 𝓜𝓸𝓱𝓪𝓶𝓶𝓪𝓭 𝓙𝓾𝓫𝓪𝔂𝓮𝓻\n\n⦿font b 𝕄𝕠𝕙𝕒𝕞𝕞𝕒𝕕 𝕁𝕦𝕓𝕒𝕪𝕖𝕣\n\n⦿font c 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗝𝘂𝗯𝗮𝘆𝗲𝗿\n\n⦿font d 𝑴𝒐𝒉𝑎𝒎𝒎𝑎𝑑 𝑱𝒖𝑏𝑎𝒚𝑒𝒓\n\n⦿font e 𝔐𝔒𝔍𝔄𝔑𝔑𝔄𝔈 𝔍𝔘𝔅𝔄𝔜𝔉𝔕\n\n⦿font f ᴍᴏʜᴀᴍᴍᴀᴅ ᴊᴜʙᴀʏᴇʀ\n\n⦿font g 🅼🅾🅷🅰🅼🅼🅰🅳 🅹🆄🅱🅰🆈🅴🆁\n\n⦿font h 🅜🅞🅗🅐🅜🅜🅐🅓 🅙🅤🅑🅐🅨🅔🅡\n\n⦿font i 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐉𝐔𝐁𝐀𝐘𝐄𝐑',
       event.threadID,
       event.messageID
     );
